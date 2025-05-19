@@ -22,8 +22,7 @@ This is a simple Angular application that allows users to submit feedback includ
 ## 🧰 Tech Stack
 
 - **Frontend**: Angular 19+
-- **Styling**: Basic HTML/CSS (customizable)
-
+- **Styling**: Basic HTML/CSS
 ---
 
 ## 🛠️ Getting Started
