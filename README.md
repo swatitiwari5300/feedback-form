@@ -12,10 +12,10 @@ This is a simple Angular application that allows users to submit feedback includ
 
 ## 🚀 Features
 
-- ✅ User input form with validation
-- ✅ Star-based rating selection (1 to 5 stars)
-- ✅ Submitted feedbacks displayed in a list
-- ✅ Input fields reset after successful submission
+- ✅ User input form with validation.
+- ✅ Star-based rating selection (1 to 5 stars).
+- ✅ Submitted feedbacks displayed in a list.
+- ✅ Input fields reset after successful submission.
 
 ---
 
